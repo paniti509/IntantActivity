@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntantAct</string>
+    <string name="go_to">Show next Activty</string>
+    <string name="name_Second">Second Activty</string>
+</resources>
